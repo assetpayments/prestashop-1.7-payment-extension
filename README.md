@@ -1,1 +1,0 @@
-# prestashop-1.7-payment-module
