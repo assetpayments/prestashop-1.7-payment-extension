@@ -15,8 +15,6 @@
 Tested and developed with Prestashop 1.7.5 
 
 ### Troubleshooting
-If you hosting service doesn't provide a FTP access, most probably you will have to install the extension before to install the payment module.
-
 Alternatively you can just upload the upload [assetpayments] directory content to modules/ directory.
 
 ## Модуль оплаты Prestashop 1.7
@@ -35,6 +33,4 @@ Alternatively you can just upload the upload [assetpayments] directory content t
 Разработано и протестировано с Prestashop 1.7.5 
 
 ### Проблемы при установке
-Если ваша хостинговая компания не предоставляет FTP доступ, то вам будет необходимо установить этот модуль прежде чем устанавливать данный модуль оплаты.
-
 Другой вариант - это закачать на сервер содержимое папки upload [assetpayments] в директорию modules/.
